@@ -19,7 +19,7 @@ The figures above are for inter-nodal distance of 1000 meters.
 
 For different settings, temporal and spatial case, values calculated are: Number of nodes, Number of Edges, Average Clustering Coefficient and Number of Sub-graphs. Degree of every node was calculated too and a plot of Degree vs Number of nodes was plotted which obeyed the flat tailed distribution (with high clustering coefficient) which is the essence of small-world and scale-free networks. Visually, the trend of the plots follow power-law distribution (pending mathematical verification) and can allow us to conclude that there are few nodes which have a larger degree meaning those nodes with higher degree are strategic nodes which are connected to the ones with smaller degrees. So these nodes need to be targeted for effective dengue prevention. 
 
-![image](https://user-images.githubusercontent.com/71308636/128587180-a54fc9c5-7ab7-4563-9b6a-1a347243346f.png)
+![image](https://user-images.githubusercontent.com/71308636/128587273-0573f371-84fe-40a4-b6a3-fdcff4ce1cf5.png)
 
 The Mass Rapid Transit (MRT) system was also analysed to see if the observations correlate with the acutal environment. It seems that the nodes with higher degrees are in the areas where density of trains is maximum, thereby higher probability of human-human transmission. The following image of the MRT map with the area encircled is the location with the nodes that have very high degree.  
 
